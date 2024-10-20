@@ -1,0 +1,2 @@
+# recorder
+learning react-native
